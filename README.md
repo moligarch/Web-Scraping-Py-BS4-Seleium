@@ -1,0 +1,2 @@
+# Web-Scraping-Py-BS4-Seleium
+Web scraping is an automated method used to extract useful information from the websites focuses on the transformation of unstructured data (HTML format) on the web into structured data.
